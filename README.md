@@ -1,1 +1,1 @@
-# Aprendizado sobre banco de dados No-SQL
+# Aprendizado sobre banco de dados No-SQL / SQL
