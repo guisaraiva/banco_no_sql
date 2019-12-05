@@ -9,8 +9,7 @@ Maiores informações sobre o SQLite na documentação: <a href="https://sqlite.
 
 Com a instalação do Anaconda, o SQLite já será incluso automaticamente.
 
-O arquivo utilizado estão no repositório:
-* SQLite com Python
+
 
 
 
